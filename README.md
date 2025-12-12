@@ -3,6 +3,9 @@
 
 This project provides a powerful, user-friendly **web-based access-log viewer** designed for sites running under the **Enhance Control Panel**. It pairs naturally with the excellent [`enhance-log-mirror`](https://github.com/SharedGrid/enhance-log-mirror) script by **SharedGrid**, which handles real-time mirroring of per-site logs.
 
+Special Note: If you are a cpFence user (in our estimation the best security product available for Enhance Hosting Panel) then please see that they have released LogSpot v. 2 with a brand-new log retention and viewer built in. If you are utilizing that product, be SURE to check it out, becuase it makes this obsolete:
+https://cpfence.app/meet-logspot-v2-smarter-lighter-per-day-filtering-and-insights
+
 ---
 
 ## 🙏 Acknowledgment
